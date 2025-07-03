@@ -19,3 +19,6 @@ http://localhost:8090/api/kafka/send?message=kafka测试-004
 2025-06-30T18:58:24.022+08:00  INFO 4156 --- [nio-8090-exec-4] c.j.kafka.controller.ProducerController  : 发送消息=kafka测试-004
 2025-06-30T18:58:24.042+08:00  INFO 4156 --- [ntainer#0-0-C-1] c.jsun.kafka.listener.ConsumerListener   : 接收消息=kafka测试-004
 ```
+
+### Swagger UI Document
+http://localhost:8090/swagger-ui/index.html
